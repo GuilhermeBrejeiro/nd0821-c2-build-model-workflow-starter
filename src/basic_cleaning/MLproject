@@ -23,11 +23,11 @@ entry_points:
 
       min_price:
         description: min threshold value for price
-        type: string
+        type: float
 
       max_price:
         description: max threshould value for price
-        type: string
+        type: float
 
 
     command: >-
